@@ -27,7 +27,7 @@
 * [Move Agent](agents/move.md)
 * [Eliza Agent](agents/eliza.md)
 * [Specialized Agents](agents/specialized-agents.md)
-* [Chain Specific Agents](agents/chain-specific-agents/README.md)
+* [Chain Specific Agents](agents/chain-specific-agents.md)
 * [Sei Money Market Agent](agents/chain-specific-agents/sei-money-market.md)
   * [Sonic Agent](agents/chain-specific-agents/sonic.md)
 * [Protocol Specific Agent](agents/protocol-specific-agent/README.md)
@@ -49,7 +49,7 @@
 
 ## Protocols
 
-* [Overview](protocols/index.md)
+* [Overview](protocols/overview.md)
 * [MarginZero](protocols/marginzero.md)
 * [Navi Protocol](protocols/navi-protocol.md)
 * [Sei Money Market](protocols/sei-money-market.md)
